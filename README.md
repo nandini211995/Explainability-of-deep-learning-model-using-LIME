@@ -5,5 +5,5 @@
 
 **Dataset** : CIFAR10
 
-This work includes the ImageNet Pretrained Model and generation a visual explanation of the model's predictions on
+This work includes the VGG16 which is  ImageNet Pretrained Model and generation a visual explanation of the model's predictions on
 10 samples from CIFAR-10 test data using LIME. (One sample from each class)
